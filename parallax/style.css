@@ -29,6 +29,14 @@ header{
     z-index: -1;
 }
 
+.background{
+    transform: translateZ(-10px) scale(2);
+}
+
+.foreground{
+    transform: translateZ(-5px) scale(1.5);
+}
+
 .title{
     font-size: 7rem;
     color: white;
