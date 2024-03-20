@@ -29,10 +29,6 @@ header{
     z-index: -1;
 }
 
-/* .foreground{
-    opacity: 0.2;
-} */
-
 .title{
     font-size: 7rem;
     color: white;
